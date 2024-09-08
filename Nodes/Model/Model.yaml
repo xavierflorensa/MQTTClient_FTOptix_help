@@ -1,0 +1,15 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: BrokerIpAddress
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "test.mosquitto.org"
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Message
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
